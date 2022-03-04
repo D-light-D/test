@@ -1,3 +1,5 @@
 hello world
 wc
 hello world
+d
+lc
