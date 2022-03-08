@@ -3,3 +3,4 @@ wc
 hello world
 d
 lc
+ldwad
